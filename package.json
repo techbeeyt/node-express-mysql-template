@@ -1,0 +1,8 @@
+{
+  "name": "node-express-mysql-template",
+  "version": "1.0.0",
+  "description": "This is starter template for any node express mysql project .",
+  "main": "index.js",
+  "author": "Montasir Mahmud",
+  "license": "MIT"
+}
